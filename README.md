@@ -1,6 +1,6 @@
 # liquid_swipe_application
 
-A new Flutter project.
+I used here liquid swipe widget, created 12 horoscope .
 
 ## Getting Started
 
