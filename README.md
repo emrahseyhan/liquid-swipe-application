@@ -2,4 +2,4 @@
 
 I used here liquid swipe widget, created 12 horoscope .
 
-![github](1.png)
+![github](ss/1.png)
